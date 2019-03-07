@@ -1,3 +1,3 @@
 # my-site
 
-This is my personal sait 
+This is my personal site 
